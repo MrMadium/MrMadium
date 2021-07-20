@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrMadium
 
 - 🌱 I’m currently learning Data Analytics. As of writing this, I have worked on my skills in Python, JavaScript, SQL, d3.js, Tableau, 
-PowerBI, Mathematics, Statistics, C (not my strong suit), OOP, R, CSS and HTML.
+PowerBI, Mathematics, Statistics, C (not my strong suit), OOP, R, .ASP, CSS and HTML.
 
 - 👀 I’m interested in Business, Finance, Insights that matter.
 
